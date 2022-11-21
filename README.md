@@ -1,13 +1,6 @@
 # E_Kisan_Mandi
 
-![image](https://user-images.githubusercontent.com/109783387/203099422-e54284ee-044c-43e3-bbca-3377e8dea52d.png)
-![image](https://user-images.githubusercontent.com/109783387/203099608-f9edbec1-dad7-4d6b-a9ce-539b047eab1a.png)
-![image](https://user-images.githubusercontent.com/109783387/203099710-6d47af98-0cf8-4553-a5ab-b4b494abc486.png)
-![image](https://user-images.githubusercontent.com/109783387/203099766-054c95c0-1497-4fe1-a8c3-34710259f495.png)
-![image](https://user-images.githubusercontent.com/109783387/203099804-af6e54db-778d-4fe8-a932-30422000eae0.png)
-![image](https://user-images.githubusercontent.com/109783387/203099843-6f31301a-dc9f-46d1-8f4c-66ab5038bcd1.png)
-![image](https://user-images.githubusercontent.com/109783387/203099867-63276fb8-7eda-4194-934d-647a6139c93d.png)
-
+<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" width=5% height=5%> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" width=5% height=5%> <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original-wordmark.svg" width=5% height=5%>   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width=5% height=5%>   <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width=5% height=5%>    <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width=5% height=5%>	<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" width=5% height=5%>
 
 The primary goal of E-Kisan Mandi site is to provide online wholesale trading platform to reduce time and increase productivity of both farmer as well as buyer. Providing an online approach towards trading of farmers produce not only reduces time but also increases the efficiency of the trading process as well as keeps transparency throughout the process.
 
