@@ -1,5 +1,13 @@
 # E_Kisan_Mandi
-This repository contains the source code.
+
+![image](https://user-images.githubusercontent.com/109783387/203099422-e54284ee-044c-43e3-bbca-3377e8dea52d.png)
+![image](https://user-images.githubusercontent.com/109783387/203099608-f9edbec1-dad7-4d6b-a9ce-539b047eab1a.png)
+![image](https://user-images.githubusercontent.com/109783387/203099710-6d47af98-0cf8-4553-a5ab-b4b494abc486.png)
+![image](https://user-images.githubusercontent.com/109783387/203099766-054c95c0-1497-4fe1-a8c3-34710259f495.png)
+![image](https://user-images.githubusercontent.com/109783387/203099804-af6e54db-778d-4fe8-a932-30422000eae0.png)
+![image](https://user-images.githubusercontent.com/109783387/203099843-6f31301a-dc9f-46d1-8f4c-66ab5038bcd1.png)
+![image](https://user-images.githubusercontent.com/109783387/203099867-63276fb8-7eda-4194-934d-647a6139c93d.png)
+
 
 The primary goal of E-Kisan Mandi site is to provide online wholesale trading platform to reduce time and increase productivity of both farmer as well as buyer. Providing an online approach towards trading of farmers produce not only reduces time but also increases the efficiency of the trading process as well as keeps transparency throughout the process.
 
@@ -8,12 +16,43 @@ Through this online mandi site farmer can list his total crop production and can
 This website will provide the online representation of APMC mandis where farmer can have liberty to sell its farming produce all over the country and it will provide an opportunity to farmers to increase their market reach. Whereas traders can access the good quality of farming produce all over country and have chance to trade directly with the farmers.
 
 
-Technologies Used:
-1.ReactJs
-2.SpringBoot
+## Technologies Used:
+1. ReactJs - client side
+2. SpringBoot - server side
+3. MySQL - database
 
-Additional Fuctionalities:
-1.Jwt based security
-2.Validation at Front end as well as at server side.
-3.Global Exception Handling.
+## Additional Fuctionalities:
+1. Jwt based Authentication
+2. Role Based Authorization
+3. Validation at Front end as well as at server side.
+4. Global Exception Handling
+5. Restful Web Service
+6. Single Page Application
 
+## Approach Used
+1. Code First
+2. Reactive(Declarative) Programming
+3. KISS
+4. DRY
+5. Agile Methodology
+
+## Platform used
+1. JDK-11
+2. Maven 4.0.0
+3. Springframework 2.6.8
+4. Spring Boot Web
+5. Spring Security
+6. Spring Data JPA
+7. React 18.2.0
+8. React-Router-Dom 5.2.0
+
+### HTTP Communication Protocol
+### 3 - Tier Architecture
+
+## Future Scope
+1. All Pages of UI in Marathi & other Language(vernacular)
+2. Payment facility
+3. SMS facility
+
+## Contact Me
+lokeshbhoite28@gmail.com
