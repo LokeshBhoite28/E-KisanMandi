@@ -9,12 +9,12 @@ Through this online mandi site farmer can list his total crop production and can
 This website will provide the online representation of APMC mandis where farmer can have liberty to sell its farming produce all over the country and it will provide an opportunity to farmers to increase their market reach. Whereas traders can access the good quality of farming produce all over country and have chance to trade directly with the farmers.
 
 
-## Technologies Used:
+## Technologies Used
 1. ReactJs - client side
 2. SpringBoot - server side
 3. MySQL - database
 
-## Additional Fuctionalities:
+## Additional Fuctionalities
 1. Jwt based Authentication
 2. Role Based Authorization
 3. Validation at Front end as well as at server side.
